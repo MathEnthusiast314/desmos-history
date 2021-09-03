@@ -5,8 +5,8 @@
 // @description Desmos Graph History
 // @grant       none
 // @match       https://*.desmos.com/calculator*
-// @downloadURL 
-// @updateURL   
+// @downloadURL https://github.com/MathEnthusiast314/desmos-history/blob/main/history-from-hashtag.user.js
+// @updateURL https://github.com/MathEnthusiast314/desmos-history/blob/main/history-from-hashtag.user.js
 // ==/UserScript==
 // Thanks to SlimRunner, the GUI for this project is adapted from: https://github.com/SlimRunner/desmos-pickler 
 
