@@ -173,6 +173,7 @@
             notetext+=count+`.https://www.desmos.com/calculator/${cur}`+'\n';
             const html = await (await fetch(`https://www.desmos.com/calculator/${cur}`)).text();
             const matches = html.match(/quot;parent_hash&quot;:&quot;([a-z0-9]{10,20})&quot;/);
+	    console.log(`https://www.desmos.com/calculator/${cur}`);
             if (!matches){
             {const state = Calc.getState(); state.expressions.list.unshift({
                 "type": "text",
