@@ -5,3 +5,4 @@ Install this user script to view desmos graph history: [Desmos Graph History](ht
 
 https://user-images.githubusercontent.com/89387162/132048166-63505d0e-5d7b-4938-a41c-a84fa4a3d3f0.mp4
 
+https://user-images.githubusercontent.com/89387162/132078587-64544062-3954-4ce7-9961-71bb57014b6a.mp4
